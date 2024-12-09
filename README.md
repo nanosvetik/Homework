@@ -2,4 +2,4 @@
 completed assignment for first lesson
 выполненное задание для первого урока
 Задание выполнено
-develop1
+develop
